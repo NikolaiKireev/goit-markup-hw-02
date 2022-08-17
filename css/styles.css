@@ -1,0 +1,205 @@
+body {
+    font-family: Roboto;
+    color: black;
+    list-style-type: none;
+    }
+
+.header-logo {
+    font-family: 'Raleway';
+        font-weight: 700;
+        font-size: 26px;
+        line-height: 1.19;
+        color: #2196F3;
+        text-decoration: none;
+}
+
+.header-logo-studio {
+    color: black;
+}
+
+.header-elements {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
+    color: #212121;
+    text-decoration: none;
+    
+    }
+
+
+.header-elements:hover {
+    color: #2196F3;
+   }
+   
+.header-elements:focus {
+    color: #2196F3;
+     }
+
+.header-portfolio {
+        list-style-type: none;
+        }
+
+.header-mail {
+    font-weight: 500;
+        font-size: 14px;
+        line-height: 1.14;
+        color: #757575;
+        text-decoration: none;
+}
+
+.header-mail:hover {
+   color: #2196F3;
+}
+
+.header-mail:focus {
+    color: #2196F3;
+}
+
+.header-telephone {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
+    color: #757575;
+    text-decoration: none;
+}
+
+.header-telephone:hover {
+    color: #2196F3;
+}
+
+.header-telephone:focus {
+    color: #2196F3;
+}
+
+.central {
+    font-weight: 900;
+        font-size: 44px;
+        line-height: 1.36;
+        color: #FFFFFF;
+}
+
+.central-background {
+    background-color: #2F303A;
+}
+
+.button-bg {
+    background: #2196F3;
+    border-radius: 4px;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 1.9;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+.advantage {
+    display: none;
+}
+
+.main-li {
+list-style-type: none
+}
+
+.main-title {
+    font-weight: 700;
+        font-size: 14px;
+        line-height: 1.1;
+        }
+
+.main-text {
+    font-weight: 400;
+        font-size: 14px;
+        line-height: 1.7;
+        color: #757575;
+}
+
+.central-2 {
+font-weight: 700;
+    font-size: 36px;
+    line-height: 1.17;
+    color: #212121;
+}
+
+.main-img {
+    list-style-type: none
+}
+
+.team {
+    background-color: #F5F4FA;
+}
+
+.main-team {
+    font-weight: 500;
+        font-size: 16px;
+        line-height: 1.2;
+        color: #212121;
+}
+
+.text-team {
+font-weight: 500;
+    font-size: 16px;
+    line-height: 1.2;
+    color: #757575;
+
+}
+
+.adress-map {
+    font-weight: 400;
+        font-size: 14px;
+        line-height: 1.7;
+        color: #FFFFFF;
+        cursor: pointer;
+        text-decoration: none;
+}
+
+.address {
+    background-color: #2F303A;
+}
+
+.button-port {
+    list-style-type: none
+}
+
+.button-port-li {
+    background: #F5F4FA;
+        border-radius: 4px;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.6;
+        color: #212121;
+        cursor: pointer;
+}
+
+.button-port-li:hover {
+    background: #2196F3;
+        border-radius: 4px;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.6;
+        color: #FFFFFF;
+        cursor: pointer;
+}
+
+.button-port-li:focus {
+    background: #2196F3;
+        border-radius: 4px;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.6;
+        color: #FFFFFF;
+        cursor: pointer;
+}
+
+.product-title {
+    font-weight: 700;
+        font-size: 18px;
+        line-height: 2;
+        color: #212121;
+}
+
+.product-text {
+    font-weight: 400;
+        font-size: 16px;
+        line-height: 1.9;
+        color: #757575;
+}
